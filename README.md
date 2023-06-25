@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ishita Gupta</h1>
 <h3 align="center">A Software Developer</h3>
-<h4 align="center">Currently developing Software for the Medical Robotics department at [Addverb](https://addverb.com) (Noida, UP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta-ish&label=Profile%20views&color=0e75b6&style=flat" alt="gupta-ish" /> </p>
+
+- 👩‍💻 I'm currently developing Software for the **Medical Robotics** department at [Addverb](https://addverb.com)
 
 - 🌱 I’m currently learning **React, Neural Networks**
 
