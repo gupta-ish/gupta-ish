@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👩‍💻 I'm currently developing Software for the **Medical Robotics** department at [Addverb](https://addverb.com)
 
-- 🌱 I’m currently learning **React, Neural Networks**
+- 🌱 I’m learning **React, Neural Networks, Nvidia PhysX**
 
 - 💬 Ask me about **C++, Python, Angular, System design**
 
