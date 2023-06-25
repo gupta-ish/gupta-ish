@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gupta.ishita212@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1aL3_nQ-lM9cOP5Z3ztdtME1Atm-tOdQY/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/11pW2jT4Ls9i2w24yP5bY6NMSCGj9UArP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
