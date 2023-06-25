@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Ishita Gupta</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A Software Developer</h3>
+<h4 align="center">Currently developing Software for the Medical Robotics department at [Addverb](https://addverb.com) (Noida, UP)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gupta-ish&label=Profile%20views&color=0e75b6&style=flat" alt="gupta-ish" /> </p>
 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **gupta.ishita212@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aL3_nQ-lM9cOP5Z3ztdtME1Atm-tOdQY/view?usp=sharing](https://drive.google.com/file/d/1aL3_nQ-lM9cOP5Z3ztdtME1Atm-tOdQY/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1aL3_nQ-lM9cOP5Z3ztdtME1Atm-tOdQY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
