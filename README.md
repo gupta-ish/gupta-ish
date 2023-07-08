@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ishita Gupta</h1>
+<h1 align="center">Hi, I'm Ishita 👋 </h1>
 <h3 align="center">A Software Developer</h3>
 
 - 👩‍💻 I'm currently developing Software for the **Medical Robotics** department at [Addverb](https://addverb.com)
