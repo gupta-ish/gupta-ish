@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ishita 👋 </h1>
-<h3 align="center">A Software Developer</h3>
+<h3 align="center">I code :)</h3>
 
 - 👩‍💻 I'm currently developing Software for the **Medical Robotics** department at [Addverb](https://addverb.com)
 
-- 🌱 I’m learning **React, Neural Networks, Nvidia PhysX**
+- 🌱 I’m into **Web development, Neural Networks, Robotics**
 
 - 💬 Ask me about **C++, Python, Angular, System design**
 
